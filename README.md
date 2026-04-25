@@ -1,11 +1,14 @@
 # Simple Navigation with Hover Transitions
-CodePlayer Make a simple navigation with hover transitions project. Made with HTML & CSS.
+Navigation menu bar with hover transitions
+
+## Tech Stack
+- HTML
+- CSS
 
 ## Instructions
-Clone the repo and download the zip file. Open index.html file in your browser.
-
-## Contributions
-This code is based on starter code from TheCodePlayer.com. Therefore I will not be accepting pull requests.
+1. Clone the repo and download the zip file. 
+2. Open index.html file in your browser.
+3. A navigation bar will be in the left center of the page with 4 menu items. Each menu item has a headline and text describing each item. Hover over each item to see transition effect.
 
 ## Acknowledgements
 * TheCodePlayer.com
